@@ -1,0 +1,63 @@
+c:\users\user\documents\visual studio 2015\Projects\DhalTok\DhalTok\bin\Debug\DhalTok.exe.config
+c:\users\user\documents\visual studio 2015\Projects\DhalTok\DhalTok\bin\Debug\DhalTok.exe
+c:\users\user\documents\visual studio 2015\Projects\DhalTok\DhalTok\bin\Debug\DhalTok.pdb
+c:\users\user\documents\visual studio 2015\Projects\DhalTok\DhalTok\bin\Debug\MySql.Data.dll
+c:\users\user\documents\visual studio 2015\Projects\DhalTok\DhalTok\bin\Debug\MySql.Data.xml
+c:\users\user\documents\visual studio 2015\Projects\DhalTok\DhalTok\obj\Debug\DhalTok.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\DhalTok\DhalTok\obj\Debug\DhalTok.Register.resources
+c:\users\user\documents\visual studio 2015\Projects\DhalTok\DhalTok\obj\Debug\DhalTok.Login.resources
+c:\users\user\documents\visual studio 2015\Projects\DhalTok\DhalTok\obj\Debug\DhalTok.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\DhalTok\DhalTok\obj\Debug\DhalTok.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\DhalTok\DhalTok\obj\Debug\DhalTok.exe
+c:\users\user\documents\visual studio 2015\Projects\DhalTok\DhalTok\obj\Debug\DhalTok.pdb
+c:\users\user\documents\visual studio 2015\Projects\DhalTok\DhalTok\obj\Debug\DhalTok.Home.resources
+C:\Users\User\documents\visual studio 2015\Projects\DhalTok\DhalTok\obj\Debug\DhalTok.AboutUs.resources
+C:\Users\User\documents\visual studio 2015\Projects\DhalTok\DhalTok\obj\Debug\DhalTok.Profile.resources
+E:\Kuliah 5\PEMROGRAMAN PLATFORM KHUSUS-20170924T121752Z-001\tugas akhir1\DhalTok\DhalTok\DhalTok\bin\Debug\DhalTok.exe.config
+E:\Kuliah 5\PEMROGRAMAN PLATFORM KHUSUS-20170924T121752Z-001\tugas akhir1\DhalTok\DhalTok\DhalTok\bin\Debug\DhalTok.exe
+E:\Kuliah 5\PEMROGRAMAN PLATFORM KHUSUS-20170924T121752Z-001\tugas akhir1\DhalTok\DhalTok\DhalTok\bin\Debug\DhalTok.pdb
+E:\Kuliah 5\PEMROGRAMAN PLATFORM KHUSUS-20170924T121752Z-001\tugas akhir1\DhalTok\DhalTok\DhalTok\bin\Debug\MySql.Data.dll
+E:\Kuliah 5\PEMROGRAMAN PLATFORM KHUSUS-20170924T121752Z-001\tugas akhir1\DhalTok\DhalTok\DhalTok\bin\Debug\MySql.Data.xml
+E:\Kuliah 5\PEMROGRAMAN PLATFORM KHUSUS-20170924T121752Z-001\tugas akhir1\DhalTok\DhalTok\DhalTok\obj\Debug\DhalTok.csprojResolveAssemblyReference.cache
+E:\Kuliah 5\PEMROGRAMAN PLATFORM KHUSUS-20170924T121752Z-001\tugas akhir1\DhalTok\DhalTok\DhalTok\obj\Debug\DhalTok.AboutUs.resources
+E:\Kuliah 5\PEMROGRAMAN PLATFORM KHUSUS-20170924T121752Z-001\tugas akhir1\DhalTok\DhalTok\DhalTok\obj\Debug\DhalTok.Home.resources
+E:\Kuliah 5\PEMROGRAMAN PLATFORM KHUSUS-20170924T121752Z-001\tugas akhir1\DhalTok\DhalTok\DhalTok\obj\Debug\DhalTok.Profile.resources
+E:\Kuliah 5\PEMROGRAMAN PLATFORM KHUSUS-20170924T121752Z-001\tugas akhir1\DhalTok\DhalTok\DhalTok\obj\Debug\DhalTok.Register.resources
+E:\Kuliah 5\PEMROGRAMAN PLATFORM KHUSUS-20170924T121752Z-001\tugas akhir1\DhalTok\DhalTok\DhalTok\obj\Debug\DhalTok.Login.resources
+E:\Kuliah 5\PEMROGRAMAN PLATFORM KHUSUS-20170924T121752Z-001\tugas akhir1\DhalTok\DhalTok\DhalTok\obj\Debug\DhalTok.Properties.Resources.resources
+E:\Kuliah 5\PEMROGRAMAN PLATFORM KHUSUS-20170924T121752Z-001\tugas akhir1\DhalTok\DhalTok\DhalTok\obj\Debug\DhalTok.csproj.GenerateResource.Cache
+E:\Kuliah 5\PEMROGRAMAN PLATFORM KHUSUS-20170924T121752Z-001\tugas akhir1\DhalTok\DhalTok\DhalTok\obj\Debug\DhalTok.csproj.CoreCompileInputs.cache
+E:\Kuliah 5\PEMROGRAMAN PLATFORM KHUSUS-20170924T121752Z-001\tugas akhir1\DhalTok\DhalTok\DhalTok\obj\Debug\DhalTok.exe
+E:\Kuliah 5\PEMROGRAMAN PLATFORM KHUSUS-20170924T121752Z-001\tugas akhir1\DhalTok\DhalTok\DhalTok\obj\Debug\DhalTok.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\DhalTok2\DhalTok\bin\Debug\DhalTok.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\DhalTok2\DhalTok\obj\Debug\DhalTok.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\DhalTok2\DhalTok\obj\Debug\DhalTok.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\DhalTok2\DhalTok\bin\Debug\DhalTok.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\DhalTok2\DhalTok\bin\Debug\DhalTok.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\DhalTok2\DhalTok\bin\Debug\MySql.Data.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\DhalTok2\DhalTok\bin\Debug\MySql.Data.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\DhalTok2\DhalTok\obj\Debug\DhalTok.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\DhalTok2\DhalTok\obj\Debug\DhalTok.AboutUs.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\DhalTok2\DhalTok\obj\Debug\DhalTok.Home.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\DhalTok2\DhalTok\obj\Debug\DhalTok.Profile.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\DhalTok2\DhalTok\obj\Debug\DhalTok.Register.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\DhalTok2\DhalTok\obj\Debug\DhalTok.Login.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\DhalTok2\DhalTok\obj\Debug\DhalTok.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\DhalTok2\DhalTok\obj\Debug\DhalTok.csproj.GenerateResource.Cache
+D:\ub\Semester 5\PPK\New folder\DhalTok\DhalTok\bin\Debug\DhalTok.exe.config
+D:\ub\Semester 5\PPK\New folder\DhalTok\DhalTok\bin\Debug\DhalTok.exe
+D:\ub\Semester 5\PPK\New folder\DhalTok\DhalTok\bin\Debug\DhalTok.pdb
+D:\ub\Semester 5\PPK\New folder\DhalTok\DhalTok\bin\Debug\MySql.Data.dll
+D:\ub\Semester 5\PPK\New folder\DhalTok\DhalTok\bin\Debug\MySql.Data.xml
+D:\ub\Semester 5\PPK\New folder\DhalTok\DhalTok\obj\Debug\DhalTok.csprojResolveAssemblyReference.cache
+D:\ub\Semester 5\PPK\New folder\DhalTok\DhalTok\obj\Debug\DhalTok.AboutUs.resources
+D:\ub\Semester 5\PPK\New folder\DhalTok\DhalTok\obj\Debug\DhalTok.Home.resources
+D:\ub\Semester 5\PPK\New folder\DhalTok\DhalTok\obj\Debug\DhalTok.Profile.resources
+D:\ub\Semester 5\PPK\New folder\DhalTok\DhalTok\obj\Debug\DhalTok.Register.resources
+D:\ub\Semester 5\PPK\New folder\DhalTok\DhalTok\obj\Debug\DhalTok.Login.resources
+D:\ub\Semester 5\PPK\New folder\DhalTok\DhalTok\obj\Debug\DhalTok.Properties.Resources.resources
+D:\ub\Semester 5\PPK\New folder\DhalTok\DhalTok\obj\Debug\DhalTok.csproj.GenerateResource.Cache
+D:\ub\Semester 5\PPK\New folder\DhalTok\DhalTok\obj\Debug\DhalTok.csproj.CoreCompileInputs.cache
+D:\ub\Semester 5\PPK\New folder\DhalTok\DhalTok\obj\Debug\DhalTok.exe
+D:\ub\Semester 5\PPK\New folder\DhalTok\DhalTok\obj\Debug\DhalTok.pdb
+D:\ub\Semester 5\PPK\New folder\DhalTok\DhalTok\obj\Debug\DhalTok.Invoice.resources
